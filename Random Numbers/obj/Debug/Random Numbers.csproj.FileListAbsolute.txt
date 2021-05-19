@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\bin\Debug\Random Numbers.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\bin\Debug\Random Numbers.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\bin\Debug\Random Numbers.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random Numbers.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random_Numbers.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random_Numbers.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random Numbers.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random Numbers.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random Numbers.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Random Numbers\obj\Debug\Random Numbers.pdb
